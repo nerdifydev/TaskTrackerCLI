@@ -22,6 +22,34 @@ Task Tracker CLI is a simple command-line application for managing tasks. It all
 
 ---
 
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/nerdifydev/TaskTrackerCLI.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```bash
+   cd TaskTrackerCLI
+   ```
+
+3. Install the required dependencies:
+
+   ```bash
+   pip install tabulate
+   ```
+
+4. Run the application:
+
+   ```bash
+   python3 main.py --help
+   ```
+
+---
+
 ## Usage
 
 ### Add a Task
